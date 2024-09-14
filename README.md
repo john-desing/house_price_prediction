@@ -26,7 +26,6 @@ Ce projet a pour but de démontrer deux compétences avancées :
 ## Exécution des notebooks
 Les notebooks contiennent des analyses visuelles et interactives pour explorer les données et évaluer les modèles. Exécutez-les en lançant Jupyter :
 
-
 jupyter notebook notebooks/house_price_analysis.ipynb
 jupyter notebook notebooks/fraud_detection_analysis.ipynb
 
@@ -35,4 +34,3 @@ Installez les dépendances :
 
 ```bash
 pip install -r requirements.txt
-```bash
